@@ -15,7 +15,7 @@ With this add-on you get the possibility to add menu items with links to externa
 
 **Prerequisites**
 
-- Znuny 7.3
+- Znuny 7.5
 
 **Installation**
 
